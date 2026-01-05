@@ -141,7 +141,7 @@ df.to_csv("quantum_business_adoption_clean.csv", index=False)
 
 ---
 
-## 📁 Repository Structure (Current)
+##  Repository Structure (Current)
 
 ```
 ├── preprocess1.py              # Data cleaning & preprocessing
